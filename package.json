@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@sanity/client": "^3.4.1",
+    "@sanity/core": "^0.139.3",
     "@stripe/stripe-js": "^1.37.0",
     "canvas-confetti": "^1.5.1",
     "next": "12.3.1",
